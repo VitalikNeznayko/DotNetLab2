@@ -1,0 +1,7 @@
+C:\Users\vital\Source\Repos\dotNetLab2\dotNetLab2\bin\Debug\dotNetLab2.exe.config
+C:\Users\vital\Source\Repos\dotNetLab2\dotNetLab2\bin\Debug\dotNetLab2.exe
+C:\Users\vital\Source\Repos\dotNetLab2\dotNetLab2\bin\Debug\dotNetLab2.pdb
+C:\Users\vital\Source\Repos\dotNetLab2\dotNetLab2\obj\Debug\dotNetLab2.csproj.AssemblyReference.cache
+C:\Users\vital\Source\Repos\dotNetLab2\dotNetLab2\obj\Debug\dotNetLab2.csproj.CoreCompileInputs.cache
+C:\Users\vital\Source\Repos\dotNetLab2\dotNetLab2\obj\Debug\dotNetLab2.exe
+C:\Users\vital\Source\Repos\dotNetLab2\dotNetLab2\obj\Debug\dotNetLab2.pdb
